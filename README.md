@@ -4,7 +4,7 @@
 
 ### 🍀 A little about me:
 
-My name is Ksenia and I am a Juniour QA Engineer. Here I want to share some web and mobile testing portfolio items that were created during my studies.
+My name is Ksenia and I am a Juniour QA Engineer. Here I want to share some web and mobile testing portfolio items that were created during my studies. 💻 Finished [functional software testing course](https://rusau.net/qa-from-scratch)
 
 ---
 
