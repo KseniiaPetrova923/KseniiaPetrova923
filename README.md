@@ -93,7 +93,7 @@ Here are collected test artifacts from my repositories, created in the process o
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-|https://rusau.net/qa-from-scratch/Functional software testing    | 08/2024 - 02/2025 |
+|[Functional software testing](https://rusau.net/qa-from-scratch) | 08/2024 - 02/2025 |
 
 --- -->
 
