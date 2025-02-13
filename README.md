@@ -71,6 +71,12 @@ My name is Ksenia and I am a Juniour QA Engineer. Here I want to share some web 
 
 ### 🍀 Test Artifacts:
 
+Here are collected test artifacts from my repositories, created in the process of learning and practice.
+
+[Requirements and Mockup Analysis](https://github.com/KseniiaPetrova923/theory)
+
+[Application of test design techniques](https://github.com/KseniiaPetrova923/design)
+
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KseniiaPetrova923)
