@@ -77,6 +77,25 @@ Here are collected test artifacts from my repositories, created in the process o
 
 [Application of test design techniques](https://github.com/KseniiaPetrova923/design)
 
+[Preparation of test documentation: checklists, test cases, bug reports](https://github.com/KseniiaPetrova923/docs)
+
+[Web application testing](https://github.com/KseniiaPetrova923/web)
+
+[Testing REST and SOAP API in Postman](https://github.com/KseniiaPetrova923/api)
+
+[Working with MySQL and MongoDB databases](https://github.com/KseniiaPetrova923/database)
+
+[Mobile application testing (Android Studio, sniffer: Charles Proxy) ](https://github.com/KseniiaPetrova923/mobile)
+
+[Working with Git and Bash](https://github.com/KseniiaPetrova923/git_bash)
+
+<!-- ### 💻 Finished functional software testing course:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+|https://rusau.net/qa-from-scratch/Functional software testing    | 08/2024 - 02/2025 |
+
+--- -->
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KseniiaPetrova923)
