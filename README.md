@@ -33,7 +33,7 @@ My name is Ksenia and I am a Juniour QA Engineer. Here I want to share some web 
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://images.seeklogo.com/logo-png/41/1/postman-logo-png_seeklogo-412593.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
